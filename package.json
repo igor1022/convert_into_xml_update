@@ -1,0 +1,21 @@
+{
+  "name": "converting-xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "json-xls-converter": "^1.4.4",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.3",
+    "xls-to-json": "^2.1.1",
+    "xlsx-converter": "^0.1.0",
+    "xmlbuilder": "^15.1.1"
+  }
+}
